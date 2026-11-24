@@ -1,6 +1,6 @@
 # A ficha do seu projeto final
 
-Uma tarefa real sua, que você leva pelo curso inteiro. É **a dor que você escolheu na etapa 1**: os campos 1, 2 e 7 saem de lá, e os campos 3 a 6 você completa na etapa 2. A coluna do meio é um exemplo, para você ver o tamanho e o jeito de cada resposta.
+Uma tarefa real sua: **uma das dores que você achou na etapa 1**. Tem mais de uma? Faça uma ficha para cada, porque cada dor pode pedir uma ferramenta diferente. Aqui, os campos 1, 2 e 7 saem de lá, e os campos 3 a 6 você completa na etapa 2. A coluna do meio é um exemplo, para você ver o tamanho e o jeito de cada resposta.
 
 | Campo | Um exemplo | A sua resposta |
 |---|---|---|

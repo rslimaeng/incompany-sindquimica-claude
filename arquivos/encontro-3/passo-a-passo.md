@@ -17,7 +17,7 @@
 
 ## Passo 1 · A dor
 
-É a frase que você escreveu na etapa 1:
+É uma das frases da etapa 1, a da ficha ou outra:
 
 ```
 Toda [frequência], eu [a tarefa] à mão, e quem usa o resultado é [quem].
