@@ -138,7 +138,7 @@ e não trate o painel como fechado até a pessoa decidir.
 
 ## A cerca
 
-- **Dado sigiloso não entra.** Fórmula, dado de cliente e dado pessoal ficam fora desta pasta e
+- **Dado sigiloso não entra.** Fórmula do produto, dado de cliente e dado pessoal ficam fora desta pasta e
   desta conversa.
 - **Ele sugere, você decide.** Liberar, devolver e reclamar ao fornecedor é de quem a regra da
   casa diz. O painel é uma lista para alguém decidir, não uma ordem.

@@ -1,11 +1,7 @@
-Quero criar uma skill para uma tarefa minha. Se a skill-creator estiver disponível, use ela.
+Quero criar uma skill para a minha dor. Se a skill-creator estiver disponível, use ela.
 
-O PROBLEMA: [a tarefa que eu repito, e o que eu tenho de explicar toda vez]
-QUANDO ELA DEVE ENTRAR: [as frases que eu uso para pedir isso, do jeito que eu falo]
-QUANDO NÃO DEVE: [pedidos parecidos que não são isso]
-O QUE CHEGA: [o arquivo, o texto colado ou a planilha]
-O QUE SAI: [o formato pronto, parte por parte]
-REGRAS: [o que nunca pode faltar e o que nunca pode ser inventado]
-UM EXEMPLO REAL: [uma entrada de verdade, sem nome de pessoa] e como a saída deveria ficar
+A MINHA DOR: [cole a frase da dor]
 
-Antes de criar, me faça as perguntas que faltarem, numa rodada só. Depois, me mostre a description e sugira 2 frases que devem acionar a skill e 1 que não deve. Por fim, me entregue o arquivo para eu instalar.
+Antes de criar, me entreviste em caixas de seleção para eu clicar, com "outro" para eu escrever, no máximo 4 perguntas por rodada e 2 rodadas: como eu costumo pedir essa tarefa (me mostre frases prontas para eu marcar), que pedidos parecidos não são isso, o que chega, o que sai pronto, o que nunca pode faltar e o que nunca pode ser inventado.
+
+Depois, me mostre a description, com 2 frases que devem acionar a skill e 1 que não deve. Por fim, me entregue o arquivo para eu instalar.

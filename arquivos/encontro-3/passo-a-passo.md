@@ -121,7 +121,7 @@ Vamos parar por aqui. Atualize o 00-aqui-paramos.md desta pasta (crie, se não e
 
 ## A cerca · vai escrita em todo CLAUDE.md
 
-- **Dado sigiloso:** fórmula, dado de cliente e dado pessoal não entram. No curso, só exemplo.
+- **Dado sigiloso:** fórmula do produto, dado de cliente e dado pessoal não entram. No curso, só exemplo.
 - **Ele sugere, você decide:** liberar, devolver e reclamar ao fornecedor é de quem a regra da casa diz.
 - **Nada muda sem OK:** antes de gravar, ele mostra o antes e o depois.
 - **Nada some:** o original nunca é movido; o processado vai para outra pasta; apagar, só você.

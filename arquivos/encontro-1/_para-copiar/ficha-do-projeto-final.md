@@ -10,7 +10,7 @@ Uma tarefa real sua, que você leva pelo curso inteiro. É **a dor que você esc
 | 4 · Os passos que você faz hoje, com o tempo de cada um | Abrir e juntar os laudos (25 min) · conferir cada parâmetro com a especificação (40 min) · marcar o que está fora (10 min) · escrever o e-mail para a coordenadora (15 min). Total: 1h30 | |
 | 5 · O que sai pronto (a saída) e quem recebe | Um e-mail de uma página para a coordenadora, com os lotes fora, os pendentes e o que liberar | |
 | 6 · Como você sabe que ficou certo (o critério) | Cada lote fora tem o parâmetro, o resultado e o limite, e o número de lotes bate com a planilha do sistema | |
-| 7 · Em qual caixa o material cai: entra, entra sem identificação, ou não entra | Entra: o laudo não tem fórmula nem dado de cliente. A fórmula do produto acabado não entra | |
+| 7 · Em qual caixa o material cai: entra, entra sem identificação, ou não entra | Entra: o laudo não tem fórmula de produto nem dado de cliente. A fórmula do produto acabado não entra | |
 
 **A régua:** volta quatro vezes ou mais por mês, e o critério não muda? Então vale montar. Uma vez por mês ou menos raramente paga.
 
