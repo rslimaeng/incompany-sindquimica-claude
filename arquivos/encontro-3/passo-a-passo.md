@@ -1,6 +1,6 @@
 # O seu sistema em 10 passos · prática 1D
 
-**Claude na Indústria Química** · encontros 3 e 4
+**Claude na Indústria Química** · etapas 3 e 4
 
 > **Fonte única dos prompts dos 10 passos.** O deck (`e3.py` e `e4.py`) e a página leem os blocos de código abaixo **na ordem**. O método veio do encontro de Claude Code de um treinamento in-company do professor, que partiu da prática 1D do curso *IA com Claude* (IEL Ceará). As frases são sugestões: adapte com as suas palavras.
 
@@ -8,16 +8,16 @@
 
 | Tempo | Passos | Quando |
 |---|---|---|
-| **Preparar** · antes da conversa | 1 A dor · 2 A pasta · 3 O computador | encontro 3 |
-| **Conversar** · ele entende o trabalho | 4 Ler · 5 A entrevista | encontro 3 |
-| | 6 A referência · 7 A pesquisa | encontro 4 |
-| **Construir** · só agora ele cria | 8 O plano · 9 Construir e conferir · 10 Validar | encontro 4 |
+| **Preparar** · antes da conversa | 1 A dor · 2 A pasta · 3 O computador | etapa 3 |
+| **Conversar** · ele entende o trabalho | 4 Ler · 5 A entrevista | etapa 3 |
+| | 6 A referência · 7 A pesquisa | etapa 4 |
+| **Construir** · só agora ele cria | 8 O plano · 9 Construir e conferir · 10 Validar | etapa 4 |
 
 ---
 
 ## Passo 1 · A dor
 
-É a frase que você escreveu no encontro 1:
+É a frase que você escreveu na etapa 1:
 
 ```
 Toda [frequência], eu [a tarefa] à mão, e quem usa o resultado é [quem].
@@ -59,13 +59,13 @@ Agora quero criar um sistema simples, só neste computador, para essa dor. Me en
 
 **Por quê:** sem a entrevista, ele adivinha a regra, e erra em silêncio. **Atenção:** o CLAUDE.md é o manual da pasta; ele lê esse arquivo toda vez que você abre uma conversa ali. A entrevista é inspirada na skill grill-me, de Matt Pocock.
 
-**Fim do encontro 3.** Feche a sessão (o prompt está no fim desta página) e, amanhã, conversa nova.
+**Fim da etapa 3.** Feche a sessão (o prompt está no fim desta página). Na volta, conversa nova.
 
 ---
 
 ## Passo 6 · A referência
 
-Copie para a sua pasta o `modelo-CLAUDE.md` (do kit do encontro 4): é o manual do sistema de laudos que você viu funcionando. Conversa nova:
+Copie para a sua pasta o `modelo-CLAUDE.md` (da etapa 4): é o manual do sistema de laudos que você viu funcionando. Conversa nova:
 
 ```
 Nesta pasta está modelo-CLAUDE.md, o manual de um sistema que já funciona. Use o jeito dele de organizar como modelo para o nosso: as pastas, quem faz o quê, as frases que disparam cada tarefa e a cerca. Não copie as regras dele: as regras são as que combinamos na entrevista. Me mostre o que você aproveitaria e o que não serve para esta dor, e só mexa no CLAUDE.md com o meu OK.

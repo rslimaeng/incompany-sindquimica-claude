@@ -1,6 +1,6 @@
 # A ficha do seu projeto final
 
-Uma tarefa real sua, que você leva pelos quatro encontros. É **a dor que você escolheu no encontro 1**: os campos 1, 2 e 7 saem de lá, e os campos 3 a 6 você completa no encontro 2. A coluna do meio é um exemplo, para você ver o tamanho e o jeito de cada resposta.
+Uma tarefa real sua, que você leva pelo curso inteiro. É **a dor que você escolheu na etapa 1**: os campos 1, 2 e 7 saem de lá, e os campos 3 a 6 você completa na etapa 2. A coluna do meio é um exemplo, para você ver o tamanho e o jeito de cada resposta.
 
 | Campo | Um exemplo | A sua resposta |
 |---|---|---|
@@ -14,4 +14,4 @@ Uma tarefa real sua, que você leva pelos quatro encontros. É **a dor que você
 
 **A régua:** volta quatro vezes ou mais por mês, e o critério não muda? Então vale montar. Uma vez por mês ou menos raramente paga.
 
-**No Claude, no encontro 2:** Projetos › Novo projeto, só com o nome `<a sua tarefa> · <N>x/mês`. No exemplo: `Conferência dos laudos de fornecedor · 12x/mês`. No encontro 3, a tarefa ganha uma pasta e um CLAUDE.md.
+**No Claude, na etapa 2:** Projetos › Novo projeto, só com o nome `<a sua tarefa> · <N>x/mês`. No exemplo: `Conferência dos laudos de fornecedor · 12x/mês`. Na etapa 3, a tarefa ganha uma pasta e um CLAUDE.md.

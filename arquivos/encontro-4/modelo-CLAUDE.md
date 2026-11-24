@@ -1,6 +1,6 @@
 # Modelo de CLAUDE.md · o manual do sistema de laudos de exemplo do curso
 
-> Este é o manual do sistema de laudos que você viu funcionando no encontro 3. Use como modelo de organização (as pastas, quem faz o quê, as frases que disparam cada tarefa e a cerca), não de regras: as regras da sua pasta são as da sua entrevista.
+> Este é o manual do sistema de laudos que você viu funcionando na etapa 3. Use como modelo de organização (as pastas, quem faz o quê, as frases que disparam cada tarefa e a cerca), não de regras: as regras da sua pasta são as da sua entrevista.
 
 Esta pasta é um sistema local do controle de qualidade da Química Serra Azul, uma indústria de
 saneantes fictícia. Os fornecedores, lotes e números são inventados.

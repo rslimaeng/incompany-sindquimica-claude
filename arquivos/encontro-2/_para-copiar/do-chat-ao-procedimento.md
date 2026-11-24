@@ -82,4 +82,4 @@ Aprovado. Transforme este trabalho numa skill chamada relatorio-producao-mensal.
 |---|---|---|
 | Onde vale | dentro do projeto | em qualquer conversa ou projeto |
 | Bom quando | o trabalho tem material fixo junto (a especificação, o POP, um modelo) | o procedimento é o mesmo, onde quer que você esteja |
-| Neste encontro | o projeto da qualidade, da prática 4, nasceu assim | a skill da prática 4c é um exemplo pronto |
+| Nesta etapa | o projeto da qualidade, da prática 4, nasceu assim | a skill da prática 4c é um exemplo pronto |
