@@ -1,10 +1,10 @@
 # Teste o gatilho · prática 4c
 
-A skill `relatorio-producao-serra-azul` vem com a description no padrão: diz **o quê**, **quando**, **com que falas** e **quando não**. Aqui você testa se ela acerta, frase por frase.
+A skill `relatorio-producao-serra-azul` vem com a etiqueta (na tela, *description*) completa: diz **o quê**, **quando**, **com que falas** e **quando não**. Aqui você testa se ela acerta, frase por frase.
 
 ## Instalar
 
-Baixe `relatorio-producao-serra-azul.skill` da página. No Claude: **Personalizar › Habilidades › Adicionar › Fazer upload de habilidade**. Se pedir, ligue a execução de código. Tem a skill do 5b instalada? Desligue durante o teste.
+Baixe `relatorio-producao-serra-azul.skill` da página. No Claude, no menu da esquerda: **Plugins › Adicionar › Fazer upload de plugin** (a tela aceita o arquivo .skill). Na sua tela ainda aparece **Personalizar › Habilidades**? O caminho é esse, e o botão também é Adicionar. Se pedir, ligue a execução de código. Tem a skill do 5b instalada? Desligue durante o teste.
 
 ## As cinco frases do teste
 
@@ -18,9 +18,9 @@ Uma **conversa nova** para cada frase. Na frase 1, anexe `producao-lotes-2025-20
 | 4 | Confere estes laudos de matéria-prima contra a especificação. | não |
 | 5 | Escreve um comunicado para a equipe da Linha 3 sobre a parada de manutenção. | não |
 
-## Leia a description
+## Leia a etiqueta
 
-Abra a skill em Personalizar › Habilidades e ache as quatro camadas:
+Abra a skill em **Plugins** (filtro **Skills**) e ache as quatro partes:
 
 1. **O quê:** o que ela entrega, numa frase.
 2. **Quando:** a situação, não o assunto.
