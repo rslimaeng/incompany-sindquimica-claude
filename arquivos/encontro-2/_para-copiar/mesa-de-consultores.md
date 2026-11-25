@@ -51,14 +51,15 @@ Resumo feito para o curso, com as palavras do professor. A ideia de cada consult
 
 ## 7 · Decisão
 **A ideia:** há duas portas. A que só vai (cara de desfazer) pede calma, texto escrito e alguém que discorde. A que vai e volta pede velocidade: com boa parte da informação, um dono decide, mede e corrige.
-**As perguntas:** dá para desfazer, e quanto custa? O que você ganha esperando mais um mês? Quem discorda, e por quê?
+**As perguntas:** dá para desfazer, e quanto custa, até em confiança do cliente? O que você ganha esperando mais um mês? Imagine que já se passaram seis meses e deu errado: por quê?
 **Entrega:** o tipo da porta, o ritmo, e o sinal que faria voltar atrás.
-**Fonte:** Jeff Bezos, cartas aos acionistas da Amazon (2015 e 2016).
+**Fonte:** Jeff Bezos, cartas aos acionistas da Amazon (2015 e 2016); a última pergunta é de Gary Klein, *Performing a Project Premortem* (Harvard Business Review, 2007).
 **Não vale para** segurança, meio ambiente e liberação de lote: ali se espera a informação inteira.
 
 ## 8 · Simplificar
 **A ideia:** cinco passos, nesta ordem: questione a exigência; corte a etapa; simplifique o que sobrou; acelere; e só por último automatize. Automatizar o que devia sumir é o erro mais caro.
-**As perguntas:** quem pediu esta etapa, e por quê? O que acontece se ela sair por um mês? O que sobra é simples o bastante para automatizar?
+**Antes de cortar:** descubra por que a etapa existe. Quem não sabe explicar para que a cerca foi posta ainda não pode derrubar.
+**As perguntas:** quem pediu esta etapa, e que problema ela resolvia? O problema ainda existe? O que acontece se ela sair por um mês? O que sobra é simples o bastante para automatizar?
 **Entrega:** a lista do que sai, do que fica e do que se automatiza, nesta ordem.
-**Fonte:** Elon Musk, o "algoritmo" de cinco passos descrito por Walter Isaacson em *Elon Musk* (2023).
+**Fonte:** Elon Musk, o "algoritmo" de cinco passos descrito por Walter Isaacson em *Elon Musk* (2023); a cerca é de G. K. Chesterton, *The Thing* (1929).
 **Nunca corte** exigência de lei, de norma, de segurança ou de meio ambiente: essa se cumpre, e se pergunta só como.
