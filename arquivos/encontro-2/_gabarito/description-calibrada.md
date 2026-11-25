@@ -1,4 +1,4 @@
-# A description da skill, camada por camada · para conferir na prática 4c
+# A description da skill, camada por camada · para conferir no teste em casa
 
 | Camada | Onde está | Que frase do teste ela pega |
 |---|---|---|

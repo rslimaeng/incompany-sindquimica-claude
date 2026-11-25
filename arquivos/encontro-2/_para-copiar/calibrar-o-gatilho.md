@@ -1,4 +1,4 @@
-# Teste o gatilho · prática 4c
+# Teste quando a skill entra · em casa
 
 A skill `relatorio-producao-serra-azul` vem com a etiqueta (na tela, *description*) completa: diz **o quê**, **quando**, **com que falas** e **quando não**. Aqui você testa se ela acerta, frase por frase.
 
@@ -8,7 +8,7 @@ Baixe `relatorio-producao-serra-azul.skill` da página. No Claude, no menu da es
 
 ## As cinco frases do teste
 
-Uma **conversa nova** para cada frase. Na frase 1, anexe `producao-lotes-2025-2026.xlsx`, a planilha da prática 4a. Repare se o Claude abre a skill antes de responder: aparece **Carregou habilidade**.
+Uma **conversa nova** para cada frase. Na frase 1, anexe `producao-lotes-2025-2026.xlsx`, a planilha da prática 4. Repare se o Claude abre a skill antes de responder: aparece **Carregou habilidade**.
 
 | # | Frase | Deve acionar? |
 |---|---|---|

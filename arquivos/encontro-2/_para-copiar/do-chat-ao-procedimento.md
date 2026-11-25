@@ -1,4 +1,4 @@
-# Do chat ao procedimento · prática 4a
+# Do chat ao procedimento · em casa, em cinco prompts
 
 Uma conversa inteira, do jeito que ela acontece de verdade: você anexa a planilha, o Claude analisa, você pede o relatório, corrige e aprova. Depois de aprovado, a conversa já fez o trabalho dela. Se o relatório volta todo mês, ela vira **um projeto** ou **uma skill**.
 
@@ -82,4 +82,4 @@ Aprovado. Transforme este trabalho numa skill chamada relatorio-producao-mensal.
 |---|---|---|
 | Onde vale | dentro do projeto | em qualquer conversa ou projeto |
 | Bom quando | o trabalho tem material fixo junto (a especificação, o POP, um modelo) | o procedimento é o mesmo, onde quer que você esteja |
-| Nesta etapa | o projeto da qualidade, da prática 4, nasceu assim | a skill da prática 4c é um exemplo pronto |
+| Nesta etapa | o projeto “Relatório de produção”, da prática 4, nasce assim | a skill pronta, do teste em casa, é um exemplo |
