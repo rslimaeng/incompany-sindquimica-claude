@@ -14,7 +14,7 @@ A Química Serra Azul, **fictícia**, compra 10 matérias-primas de 5 fornecedor
 | `cadastros/` | os pedidos de compra (com o que o almoxarifado recebeu) e a especificação das matérias-primas |
 | `fornecedores/` | o cadastro, o logo e a foto de cada fornecedor |
 | `documentos-padrao/` | a carta-modelo para o fornecedor |
-| `identidade-visual/` | o design system e o logo da empresa |
+| `identidade-visual/` | o design system e o logo da empresa, e `referencia/`: um exemplo real de tela, sem marca |
 | `planejamento/` | o planejamento estratégico de 2026: os OKRs, as metas de receita, os clientes de 2025 e o orçamento de despesas |
 | `produtos/` | a foto de cada produto da Serra Azul |
 
@@ -54,6 +54,7 @@ O QUE EU QUERO (a entrevista)
 
 COMO DEVE FICAR (a referência)
 - O padrão visual da empresa está em identidade-visual/design-system-serra-azul.md: siga esse arquivo.
+- Um exemplo real de como as telas devem ficar está em identidade-visual/referencia/: um sistema pronto, sem marca e com dados ilustrativos (abra o index.html e as imagens). Siga o esqueleto e os componentes; os dados vêm dos arquivos da pasta.
 - Um sistema com cara de sistema de verdade: menu lateral, os números grandes do período (faturado, liberado para pagar, retido, bloqueado e cobrado a mais), gráficos, a lista do que fazer com cada nota, uma página por fornecedor, com o logo e a foto da pasta fornecedores, e uma análise que compara os fornecedores. O período vai de janeiro a dezembro de 2026, e eu escolho o mês, o trimestre ou o ano.
 
 O QUE O MERCADO JÁ FAZ (a pesquisa)
