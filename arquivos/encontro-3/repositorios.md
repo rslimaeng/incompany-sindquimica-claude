@@ -3,7 +3,7 @@
 **Claude na Indústria Química** · Sindquímica Ceará · Prof. Rafael Lima
 
 > **Fonte única desta parte.** O deck (`slides/_build/e3.py`) e a página leem os blocos de código **na ordem** e a tabela abaixo.
-> Curadoria: posts do Rafael em `10-postagens-instagram/posts/post-github` (o `conteudo.md` e o README de cada repositório, lidos em 26/11/2026).
+> Curadoria: posts do @iacomrafael e o README de cada repositório, lidos em 26/11/2026.
 > As imagens são as de prévia do próprio GitHub, capturadas em 09/2026: os números delas mudam.
 
 ## Para instalar qualquer um: o pedido do almoxarifado
