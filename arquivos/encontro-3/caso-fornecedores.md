@@ -41,7 +41,7 @@ Esta pasta tem tudo o que eu uso para liberar o pagamento dos fornecedores: as n
 Na sua dor, cada passo é uma conversa: a entrevista (`passo-a-passo.md`, passo 5) coleta a dor, as regras e como conferir; a referência (passo 6) mostra como o resultado deve ficar, o visual e o jeito de organizar; a pesquisa (passo 7) mostra como o mercado já resolve. Aqui, num caso de demonstração, as três já foram feitas, e o resultado delas vem num pedido só, em três partes:
 
 ```
-Agora quero um sistema que resolva essa dor, só neste computador. No meu trabalho de verdade, eu faria isso em três conversas: a entrevista, a referência e a pesquisa. Para ganhar tempo, aqui vai o que as três me dariam.
+Agora quero um sistema que resolva essa dor, só neste computador. Mas ainda não é hora de construir: primeiro, você precisa entender o que eu quero. No meu trabalho de verdade, eu faria isso em três conversas: a entrevista, a referência e a pesquisa. Para ganhar tempo, aqui vai o que as três me dariam.
 
 O QUE EU QUERO (a entrevista)
 - A dor: todo mês eu cruzo nota fiscal, pedido de compra e laudo, lote a lote, antes de liberar o pagamento. Os arquivos chegam por e-mail. Quem libera sou eu, da coordenação de suprimentos; quem paga é o financeiro.
@@ -59,7 +59,7 @@ COMO DEVE FICAR (a referência)
 O QUE O MERCADO JÁ FAZ (a pesquisa)
 - Os sistemas de contas a pagar conferem em três vias: o pedido, a nota e o recebimento. Os bons também avisam a nota repetida e seguram o pagamento do lote reprovado. Nesta primeira versão, ficam as regras acima. Fica para depois: a agenda de vencimentos, a leitura direto do e-mail e a aprovação em duas etapas.
 
-Se faltar alguma decisão importante, me faça no máximo uma rodada de perguntas de opção. No fim, me mostre o resumo e, com o meu OK, grave no CLAUDE.md desta pasta a dor, as regras, o que o resultado mostra, onde mora o padrão visual e o que fica para depois.
+Se faltar alguma decisão importante, me faça no máximo uma rodada de perguntas de opção. No fim, grave no CLAUDE.md desta pasta a dor, as regras, o que o resultado mostra, onde mora o padrão visual e o que fica para depois, e me mostre um resumo do que gravou. Não crie programa nem tela agora: o plano vem no próximo pedido.
 ```
 
 ## Passo 8 · O plano
