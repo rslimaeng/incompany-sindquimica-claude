@@ -36,35 +36,30 @@ Na aba **Code**, abra a pasta `sistema-fornecedores`. Conversa nova:
 Esta pasta tem tudo o que eu uso para liberar o pagamento dos fornecedores: as notas fiscais e os laudos que chegaram (novos-arquivos), os pedidos de compra e a especificação das matérias-primas (cadastros), os dados, o logo e a foto de cada fornecedor (fornecedores), uma carta-modelo (documentos-padrao), o padrão visual da empresa (identidade-visual), o planejamento estratégico de 2026 (planejamento) e as fotos dos produtos (produtos). Em novos-arquivos também estão as vendas e as despesas. Antes de qualquer pedido, leia tudo e me diga, em poucas linhas por pasta, o que tem, como cada arquivo está organizado e o que não fecha entre eles: formato diferente, unidade diferente, nota que não bate com o pedido, número escrito como texto. Não crie nada ainda.
 ```
 
-## Passo 5 · A entrevista, com as nossas respostas
+## Passos 5, 6 e 7 · A entrevista, a referência e a pesquisa, num pedido só
 
-Na sua dor, você cola o prompt da entrevista (`passo-a-passo.md`, passo 5), e ele pergunta, por exemplo: *"Se o preço da nota vier acima do pedido, o que fazer? ( ) pagar a nota ( ) pagar o pedido e cobrar a diferença ( ) aceitar até uma tolerância ( ) outro"*. Você escolhe e, no fim, ele grava o CLAUDE.md. Aqui, para ganhar tempo, as respostas já vêm prontas no pedido:
+Na sua dor, cada passo é uma conversa: a entrevista (`passo-a-passo.md`, passo 5) coleta a dor, as regras e como conferir; a referência (passo 6) mostra como o resultado deve ficar, o visual e o jeito de organizar; a pesquisa (passo 7) mostra como o mercado já resolve. Aqui, num caso de demonstração, as três já foram feitas, e o resultado delas vem num pedido só, em três partes:
 
 ```
-Agora quero um sistema simples, só neste computador, para essa dor. No meu trabalho de verdade, eu pediria uma entrevista com perguntas de opção. Para ganhar tempo, estas são as respostas que eu daria:
+Agora quero um sistema que resolva essa dor, só neste computador. No meu trabalho de verdade, eu faria isso em três conversas: a entrevista, a referência e a pesquisa. Para ganhar tempo, aqui vai o que as três me dariam.
 
+O QUE EU QUERO (a entrevista)
 - A dor: todo mês eu cruzo nota fiscal, pedido de compra e laudo, lote a lote, antes de liberar o pagamento. Os arquivos chegam por e-mail. Quem libera sou eu, da coordenação de suprimentos; quem paga é o financeiro.
 - Preço: até 2 % acima do preço do pedido, pago a nota. Acima disso, pago o preço do pedido, e a diferença vira cobrança ao fornecedor.
 - Quantidade: pago o que o almoxarifado recebeu. O que veio faturado a mais vira cobrança.
 - Qualidade: lote fora da especificação, sem especificação cadastrada ou sem laudo tem o pagamento retido até a qualidade decidir. O limite da especificação conta como dentro, e "<0,05" é conforme.
 - Nota repetida: paga uma vez só, e a repetição não entra no faturado. Nota sem pedido: bloqueada até suprimentos confirmar.
-- O resultado: um sistema com cara de sistema de verdade, no padrão da pasta identidade-visual, com menu lateral, os números grandes do período (faturado, liberado para pagar, retido, bloqueado e cobrado a mais), gráficos, a lista do que fazer com cada nota, uma página por fornecedor, com o logo e a foto dele, e uma análise que compara os fornecedores. O período vai de janeiro a dezembro de 2026, e eu escolho o mês, o trimestre ou o ano.
 - Como eu confiro: o total das notas na tela bate com o total dos arquivos, e cada nota aparece uma vez só.
 - A frase que atualiza tudo, quando chegarem os arquivos do mês seguinte: "leia os novos arquivos".
 
-Se faltar alguma decisão importante, me faça no máximo uma rodada de perguntas de opção. No fim, me mostre o resumo e, com o meu OK, grave no CLAUDE.md desta pasta a dor, as regras e o que o resultado mostra.
-```
+COMO DEVE FICAR (a referência)
+- O padrão visual da empresa está em identidade-visual/design-system-serra-azul.md: siga esse arquivo.
+- Um sistema com cara de sistema de verdade: menu lateral, os números grandes do período (faturado, liberado para pagar, retido, bloqueado e cobrado a mais), gráficos, a lista do que fazer com cada nota, uma página por fornecedor, com o logo e a foto da pasta fornecedores, e uma análise que compara os fornecedores. O período vai de janeiro a dezembro de 2026, e eu escolho o mês, o trimestre ou o ano.
 
-## Passo 6 · A referência: o design system da empresa
+O QUE O MERCADO JÁ FAZ (a pesquisa)
+- Os sistemas de contas a pagar conferem em três vias: o pedido, a nota e o recebimento. Os bons também avisam a nota repetida e seguram o pagamento do lote reprovado. Nesta primeira versão, ficam as regras acima. Fica para depois: a agenda de vencimentos, a leitura direto do e-mail e a aprovação em duas etapas.
 
-```
-Leia identidade-visual/design-system-serra-azul.md: é o padrão visual da empresa, e o sistema vai seguir esse padrão. Me diga em poucas linhas como ficaria a tela principal e a página de um fornecedor, usando o logo e a foto da pasta fornecedores. Com o meu OK, anote no CLAUDE.md que o padrão visual mora nesse arquivo.
-```
-
-## Passo 7 · A pesquisa
-
-```
-Pesquise como os sistemas de contas a pagar conferem pedido, nota e recebimento antes de pagar. Me diga, numa lista curta, o que cabe nesta primeira versão e o que fica para depois. Se a pesquisa mudar algo do que combinamos, me pergunte antes de mexer no CLAUDE.md.
+Se faltar alguma decisão importante, me faça no máximo uma rodada de perguntas de opção. No fim, me mostre o resumo e, com o meu OK, grave no CLAUDE.md desta pasta a dor, as regras, o que o resultado mostra, onde mora o padrão visual e o que fica para depois.
 ```
 
 ## Passo 8 · O plano
